@@ -21,3 +21,4 @@ faiss-cpu==1.11.0
 psutil
 email_validator
 pypdf
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
